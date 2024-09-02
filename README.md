@@ -1,4 +1,9 @@
-Name: BATHALAPALLI MOHAN Company: CODTECH IT SOLUTIONS ID: CT04DS6431 Domain: "FULL STACK WEB DEVELOPMENT" Duration:August 5th,2024 to September 5th,2024 Mentor: Neela Santhosh Kumar
+Name: BATHALAPALLI MOHAN 
+Company: CODTECH IT SOLUTIONS 
+ID: CT04DS6431 
+Domain: "FULL STACK WEB DEVELOPMENT" 
+Duration:August 5th,2024 to September 5th,2024 
+Mentor: Neela Santhosh Kumar
 
 Overview of the Project
 
